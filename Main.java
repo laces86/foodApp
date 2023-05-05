@@ -7,7 +7,7 @@ public class Main {
     }
     
     public Main() {
-        System.out.println("almafa");
+        System.out.println("almafa kert");
     }
 
 
