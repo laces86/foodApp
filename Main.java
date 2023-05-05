@@ -8,6 +8,7 @@ public class Main {
     
     public Main() {
         System.out.println("almafa kert");
+		System.out.println("help");
     }
 
 
